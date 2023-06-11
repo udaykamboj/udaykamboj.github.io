@@ -82,7 +82,7 @@ html {
 }
 
 .hero-slide-two {
-  background-image: url(background.jpg);
+  background-image: url(./background.jpg);
 }
 
 .hero-slide-item {
